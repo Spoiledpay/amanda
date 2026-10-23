@@ -1,10 +1,10 @@
 # Amanda — Compilador de Conhecimento para Empresas
 
-[![CI](https://github.com/dantas72/amanda/actions/workflows/ci.yml/badge.svg)](https://github.com/dantas72/amanda/actions)
+[![CI](https://github.com/Spoiledpay/amanda/actions/workflows/ci.yml/badge.svg)](https://github.com/Spoiledpay/amanda/actions)
 
 ![Amanda](amandaLogo.png)
 
-Repositório: `https://github.com/dantas72/amanda`
+Repositório: `https://github.com/Spoiledpay/amanda`
 
 Leia em: [English](README.en.md) · [Русский](README.ru.md) · [中文](README.zh.md)
 

@@ -1,10 +1,10 @@
 # Amanda — Компилятор знаний для бизнеса
 
-[![CI](https://github.com/dantas72/amanda/actions/workflows/ci.yml/badge.svg)](https://github.com/dantas72/amanda/actions)
+[![CI](https://github.com/Spoiledpay/amanda/actions/workflows/ci.yml/badge.svg)](https://github.com/Spoiledpay/amanda/actions)
 
 ![Amanda](amandaLogo.png)
 
-Репозиторий: `https://github.com/dantas72/amanda`
+Репозиторий: `https://github.com/Spoiledpay/amanda`
 
 Читать на: [Português](README.md) · [English](README.en.md) · [中文](README.zh.md)
 

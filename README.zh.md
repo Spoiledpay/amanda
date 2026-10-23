@@ -1,10 +1,10 @@
 # Amanda — 企业知识编译器
 
-[![CI](https://github.com/dantas72/amanda/actions/workflows/ci.yml/badge.svg)](https://github.com/dantas72/amanda/actions)
+[![CI](https://github.com/Spoiledpay/amanda/actions/workflows/ci.yml/badge.svg)](https://github.com/Spoiledpay/amanda/actions)
 
 ![Amanda](amandaLogo.png)
 
-仓库：`https://github.com/dantas72/amanda`
+仓库：`https://github.com/Spoiledpay/amanda`
 
 阅读其他语言：[Português](README.md) · [English](README.en.md) · [Русский](README.ru.md)
 
